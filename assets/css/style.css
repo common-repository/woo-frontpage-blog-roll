@@ -1,0 +1,9 @@
+section.storefront-blogroll-section{
+  border-bottom: 3px solid rgba(0,0,0,.025);
+  margin-bottom: 4.236em;
+}
+
+.storefront-blogroll-section .news_item .post {
+    font-size: smaller;
+    margin-left: 1em;
+}
